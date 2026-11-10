@@ -55,3 +55,7 @@ The `zz` prefix makes it load after other tweak mods.
 
 - **Clothing from other mods** weighs 0 only if it reuses these vanilla modifiers. Clothing with its own weight modifier keeps its weight.
 - **A game patch** could add new clothing types with new modifiers. Rerun `tools/generate.py`, then reinstall the YAML.
+
+## Licence
+
+MIT, see [LICENSE](LICENSE). Cyberpunk 2077 is a trademark of CD PROJEKT S.A.; this is an unofficial fan mod.
